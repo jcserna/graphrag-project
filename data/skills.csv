@@ -1,0 +1,491 @@
+skill_id,name
+https://openalex.org/C41008148,Computer science
+https://openalex.org/C154945302,Artificial intelligence
+https://openalex.org/C58642233,Taxonomy (biology)
+https://openalex.org/C9652623,Field (mathematics)
+https://openalex.org/C105339364,Software deployment
+https://openalex.org/C2522767166,Data science
+https://openalex.org/C108583219,Deep learning
+https://openalex.org/C119857082,Machine learning
+https://openalex.org/C539667460,Management science
+https://openalex.org/C177606310,Adaptability
+https://openalex.org/C142039133,Personalized learning
+https://openalex.org/C47177190,Curriculum
+https://openalex.org/C56739046,Knowledge management
+https://openalex.org/C49774154,Multimedia
+https://openalex.org/C2777526511,Pace
+https://openalex.org/C70587473,Transformative learning
+https://openalex.org/C2778137410,Government (linguistics)
+https://openalex.org/C22467394,Multidisciplinary approach
+https://openalex.org/C108713360,Supply chain
+https://openalex.org/C144133560,Business
+https://openalex.org/C127413603,Engineering
+https://openalex.org/C2778456923,Edge computing
+https://openalex.org/C138236772,Edge device
+https://openalex.org/C162307627,Enhanced Data Rates for GSM Evolution
+https://openalex.org/C157170001,Applications of artificial intelligence
+https://openalex.org/C75684735,Big data
+https://openalex.org/C110875604,The Internet
+https://openalex.org/C2776061582,Mobile edge computing
+https://openalex.org/C79974875,Cloud computing
+https://openalex.org/C115901376,Automation
+https://openalex.org/C2780451532,Task (project management)
+https://openalex.org/C185874996,Interdependence
+https://openalex.org/C44725695,Normative
+https://openalex.org/C12713177,Perspective (graphical)
+https://openalex.org/C182306322,Order (exchange)
+https://openalex.org/C36503486,Domain (mathematical analysis)
+https://openalex.org/C144024400,Sociology
+https://openalex.org/C187736073,Management
+https://openalex.org/C153701036,Trustworthiness
+https://openalex.org/C120912362,Higher education
+https://openalex.org/C16443162,Educational technology
+https://openalex.org/C207267971,Emerging technologies
+https://openalex.org/C145420912,Mathematics education
+https://openalex.org/C55587333,Engineering ethics
+https://openalex.org/C2777601683,Vocabulary
+https://openalex.org/C554936623,Reading (process)
+https://openalex.org/C179518139,Coding (social sciences)
+https://openalex.org/C15744967,Psychology
+https://openalex.org/C133112747,Protocol analysis
+https://openalex.org/C2777855551,Subject (documents)
+https://openalex.org/C2780385302,Protocol (science)
+https://openalex.org/C189708586,Systematic review
+https://openalex.org/C136197465,Variety (cybernetics)
+https://openalex.org/C2778061373,Predictive coding
+https://openalex.org/C188147891,Cognitive science
+https://openalex.org/C169900460,Cognition
+https://openalex.org/C162027153,Artificial general intelligence
+https://openalex.org/C180747234,Cognitive psychology
+https://openalex.org/C2985681428,Mechanical design
+https://openalex.org/C192562407,Materials science
+https://openalex.org/C2984967376,Machine design
+https://openalex.org/C171250308,Nanotechnology
+https://openalex.org/C78519656,Mechanical engineering
+https://openalex.org/C98045186,Process (computing)
+https://openalex.org/C36289849,Social science
+https://openalex.org/C71924100,Medicine
+https://openalex.org/C2779328685,Patient safety
+https://openalex.org/C2779473830,MEDLINE
+https://openalex.org/C545542383,Medical emergency
+https://openalex.org/C2779820595,Listing (finance)
+https://openalex.org/C58166,Fuzzy logic
+https://openalex.org/C58328972,Expert system
+https://openalex.org/C178911571,Power electronics
+https://openalex.org/C138331895,Electronics
+https://openalex.org/C79158427,Analytics
+https://openalex.org/C109718341,Metaheuristic
+https://openalex.org/C139807058,Adaptation (eye)
+https://openalex.org/C2780586882,Simple (philosophy)
+https://openalex.org/C2780966255,Foundation (evidence)
+https://openalex.org/C2777735758,Path (computing)
+https://openalex.org/C62354387,Boundary (topology)
+https://openalex.org/C111472728,Epistemology
+https://openalex.org/C2779343474,Context (archaeology)
+https://openalex.org/C25343380,Relation (database)
+https://openalex.org/C99726746,Chemical space
+https://openalex.org/C2781442258,Ab initio
+https://openalex.org/C59593255,Molecular dynamics
+https://openalex.org/C123657996,Architecture
+https://openalex.org/C2778572836,Space (punctuation)
+https://openalex.org/C84114770,Quantum
+https://openalex.org/C9390403,Computer hardware
+https://openalex.org/C118524514,Computer architecture
+https://openalex.org/C72634772,Data integration
+https://openalex.org/C70721500,Computational biology
+https://openalex.org/C143998085,Oncology
+https://openalex.org/C502942594,Cancer research
+https://openalex.org/C117438556,Beneficence
+https://openalex.org/C65414064,Autonomy
+https://openalex.org/C139621336,Economic Justice
+https://openalex.org/C17744445,Political science
+https://openalex.org/C2775899829,Globe
+https://openalex.org/C2777904410,Software
+https://openalex.org/C207453521,"Artificial intelligence, situated approach"
+https://openalex.org/C105409693,Human intelligence
+https://openalex.org/C2994087961,Private space
+https://openalex.org/C44464901,Marketing and artificial intelligence
+https://openalex.org/C107457646,Human–computer interaction
+https://openalex.org/C2778738651,Novelty
+https://openalex.org/C11012388,Creativity
+https://openalex.org/C2776950860,Originality
+https://openalex.org/C2776664067,Synesthesia
+https://openalex.org/C2776291640,Value (mathematics)
+https://openalex.org/C39890363,Generative grammar
+https://openalex.org/C94124525,Categorization
+https://openalex.org/C192209626,Focus (optics)
+https://openalex.org/C97541855,Reinforcement learning
+https://openalex.org/C81363708,Convolutional neural network
+https://openalex.org/C50644808,Artificial neural network
+https://openalex.org/C47350684,Computational creativity
+https://openalex.org/C170477896,Ideation
+https://openalex.org/C2779094486,Quantum machine learning
+https://openalex.org/C58053490,Quantum computer
+https://openalex.org/C121332964,Physics
+https://openalex.org/C5320026,Quantum information science
+https://openalex.org/C169699857,Quantum information
+https://openalex.org/C190463098,Quantum technology
+https://openalex.org/C125014702,Adaptive learning
+https://openalex.org/C183003079,Personalization
+https://openalex.org/C97346530,Thermal conductivity
+https://openalex.org/C137996800,Technological change
+https://openalex.org/C204983608,Productivity
+https://openalex.org/C2778126366,Unemployment
+https://openalex.org/C202269582,Complementarity (molecular biology)
+https://openalex.org/C18762648,Work (physics)
+https://openalex.org/C162324750,Economics
+https://openalex.org/C112930515,Risk analysis (engineering)
+https://openalex.org/C2778152352,Content (measure theory)
+https://openalex.org/C139719470,Macroeconomics
+https://openalex.org/C2778589607,Animacy
+https://openalex.org/C43214815,Reliability (semiconductor)
+https://openalex.org/C75630572,Applied psychology
+https://openalex.org/C90509273,Robot
+https://openalex.org/C34413123,Robotics
+https://openalex.org/C77805123,Social psychology
+https://openalex.org/C2781198186,Collusion
+https://openalex.org/C91306197,Competition (biology)
+https://openalex.org/C175444787,Microeconomics
+https://openalex.org/C121398111,Oligopoly
+https://openalex.org/C2779295839,Punishment (psychology)
+https://openalex.org/C170858558,Automatic summarization
+https://openalex.org/C19351080,New product development
+https://openalex.org/C88006597,Disk formatting
+https://openalex.org/C66322947,Transformer
+https://openalex.org/C75434695,Product innovation
+https://openalex.org/C2776554220,Prosperity
+https://openalex.org/C2776900844,Witness
+https://openalex.org/C177212765,Workflow
+https://openalex.org/C126838900,Radiology
+https://openalex.org/C2778559731,Radiomics
+https://openalex.org/C108170787,Agency (philosophy)
+https://openalex.org/C122980154,Feeling
+https://openalex.org/C2777601897,Presentation (obstetrics)
+https://openalex.org/C2778755073,Scale (ratio)
+https://openalex.org/C31972630,Computer vision
+https://openalex.org/C76155785,Telecommunications
+https://openalex.org/C66204764,Sustainability
+https://openalex.org/C2780586970,Popularity
+https://openalex.org/C2777103469,Smart city
+https://openalex.org/C2780032489,Sustainable city
+https://openalex.org/C2778451013,Urbanity
+https://openalex.org/C49545453,Urban planning
+https://openalex.org/C557471498,Recommender system
+https://openalex.org/C139502532,Computational intelligence
+https://openalex.org/C2777975735,Mycobacterium tuberculosis
+https://openalex.org/C2781069245,Tuberculosis
+https://openalex.org/C68762167,Cheminformatics
+https://openalex.org/C74187038,Drug discovery
+https://openalex.org/C185592680,Chemistry
+https://openalex.org/C86803240,Biology
+https://openalex.org/C55493867,Biochemistry
+https://openalex.org/C2780233690,Transparency (behavior)
+https://openalex.org/C29122968,Incentive
+https://openalex.org/C40700,Industrial organization
+https://openalex.org/C83931994,Building automation
+https://openalex.org/C201995342,Systems engineering
+https://openalex.org/C66862320,Building information modeling
+https://openalex.org/C36464697,Visualization
+https://openalex.org/C107053488,Construction engineering
+https://openalex.org/C117671659,Manufacturing engineering
+https://openalex.org/C110354214,Engineering management
+https://openalex.org/C150899416,Transfer of learning
+https://openalex.org/C191935318,China
+https://openalex.org/C121426985,Private sector
+https://openalex.org/C151913843,Dominance (genetics)
+https://openalex.org/C201960208,Geopolitics
+https://openalex.org/C94625758,Politics
+https://openalex.org/C67141207,Education policy
+https://openalex.org/C3116431,Public administration
+https://openalex.org/C50522688,Economic growth
+https://openalex.org/C39549134,Public relations
+https://openalex.org/C547195049,Terminology
+https://openalex.org/C132525143,Graph
+https://openalex.org/C80444323,Theoretical computer science
+https://openalex.org/C184337299,Semantics (computer science)
+https://openalex.org/C2780876879,Meaning (existential)
+https://openalex.org/C2778012447,Scope (computer science)
+https://openalex.org/C2775941552,Isolation (microbiology)
+https://openalex.org/C165287380,Foraging
+https://openalex.org/C2777986313,Industry 4.0
+https://openalex.org/C175700187,Manufacturing
+https://openalex.org/C100776233,Bridge (graph theory)
+https://openalex.org/C179768478,Cyber-physical system
+https://openalex.org/C14224292,Conceptual framework
+https://openalex.org/C201305675,Stakeholder
+https://openalex.org/C2778061430,Scholarship
+https://openalex.org/C2778757428,Realm
+https://openalex.org/C2776214188,Inference
+https://openalex.org/C81860439,Internet of Things
+https://openalex.org/C64452783,Ternary operation
+https://openalex.org/C84947059,Crystal structure prediction
+https://openalex.org/C2781285689,Crystal (programming language)
+https://openalex.org/C167966045,Generative model
+https://openalex.org/C168167062,Component (thermodynamics)
+https://openalex.org/C115624301,Crystal structure
+https://openalex.org/C14036430,Function (biology)
+https://openalex.org/C55166926,Oracle
+https://openalex.org/C107327155,Decision support system
+https://openalex.org/C555293320,Diabetes mellitus
+https://openalex.org/C2776217022,Diabetes management
+https://openalex.org/C103697762,Virtual screening
+https://openalex.org/C64869954,False positive paradox
+https://openalex.org/C124101348,Data mining
+https://openalex.org/C204321447,Natural language processing
+https://openalex.org/C120208923,Conceptual design
+https://openalex.org/C115903868,Software engineering
+https://openalex.org/C53688548,Computer-integrated manufacturing
+https://openalex.org/C153083717,Leverage (statistics)
+https://openalex.org/C13736549,Industrial engineering
+https://openalex.org/C171018156,Rotation formalisms in three dimensions
+https://openalex.org/C9870796,Turing
+https://openalex.org/C577917,Turing test
+https://openalex.org/C3008058167,Coronavirus disease 2019 (COVID-19)
+https://openalex.org/C37736160,Adversarial system
+https://openalex.org/C524204448,Infectious disease (medical specialty)
+https://openalex.org/C2779396153,Natural product
+https://openalex.org/C2780035454,Drug
+https://openalex.org/C98274493,Pharmacology
+https://openalex.org/C2777146004,CLARITY
+https://openalex.org/C2777363581,Harm
+https://openalex.org/C26760741,Perception
+https://openalex.org/C169735623,Organizational learning
+https://openalex.org/C2777362162,Grand Challenges
+https://openalex.org/C2776889888,Unintended consequences
+https://openalex.org/C2780253743,Presumption
+https://openalex.org/C2778542649,Strategic intelligence
+https://openalex.org/C2779530757,Quality (philosophy)
+https://openalex.org/C63882131,Strengths and weaknesses
+https://openalex.org/C2780598303,Flexibility (engineering)
+https://openalex.org/C26517878,Key (lock)
+https://openalex.org/C42475967,Operations research
+https://openalex.org/C74750220,Differential evolution
+https://openalex.org/C117241572,Cuckoo search
+https://openalex.org/C85617194,Particle swarm optimization
+https://openalex.org/C126255220,Mathematical optimization
+https://openalex.org/C159149176,Evolutionary algorithm
+https://openalex.org/C11413529,Algorithm
+https://openalex.org/C33923547,Mathematics
+https://openalex.org/C1965285,Earth science
+https://openalex.org/C116834253,Identification (biology)
+https://openalex.org/C3020340455,Cancer drugs
+https://openalex.org/C121608353,Cancer
+https://openalex.org/C2777917073,Traditional education
+https://openalex.org/C31601959,Medical imaging
+https://openalex.org/C160735492,Health care
+https://openalex.org/C163763905,Precision medicine
+https://openalex.org/C32220436,Personalized medicine
+https://openalex.org/C72280835,Architectural pattern
+https://openalex.org/C158436829,Architectural geometry
+https://openalex.org/C65399332,Representational state transfer
+https://openalex.org/C108286215,Architectural technology
+https://openalex.org/C177264268,Set (abstract data type)
+https://openalex.org/C2984241579,Architectural design
+https://openalex.org/C2778544944,Architectural model
+https://openalex.org/C26148502,Earth (classical element)
+https://openalex.org/C127313418,Geology
+https://openalex.org/C147176958,Civil engineering
+https://openalex.org/C42437451,Retrosynthetic analysis
+https://openalex.org/C28225019,Biological network
+https://openalex.org/C113843644,Interface (matter)
+https://openalex.org/C2776321320,Annotation
+https://openalex.org/C172367668,Data visualization
+https://openalex.org/C89505385,User interface
+https://openalex.org/C112953755,Graph drawing
+https://openalex.org/C37789001,Graphical user interface
+https://openalex.org/C155672457,Nanoparticle
+https://openalex.org/C2780841128,Characterization (materials science)
+https://openalex.org/C191908910,Synthetic biology
+https://openalex.org/C186060115,Biological system
+https://openalex.org/C93518851,Metadata
+https://openalex.org/C154504017,Identifier
+https://openalex.org/C71901391,Upload
+https://openalex.org/C2779965156,Data sharing
+https://openalex.org/C20136886,Interoperability
+https://openalex.org/C136764020,World Wide Web
+https://openalex.org/C121242521,Philosophy of medicine
+https://openalex.org/C138816342,Public health
+https://openalex.org/C2778149918,Population health
+https://openalex.org/C2776007630,Accountability
+https://openalex.org/C46578552,Global health
+https://openalex.org/C2908647359,Population
+https://openalex.org/C74196892,Thematic analysis
+https://openalex.org/C93474598,Information ethics
+https://openalex.org/C48880136,Crest
+https://openalex.org/C2994201174,Space program
+https://openalex.org/C186370098,Energy (signal processing)
+https://openalex.org/C87355193,Astrobiology
+https://openalex.org/C61696701,Engineering physics
+https://openalex.org/C2781316041,Diversity (politics)
+https://openalex.org/C109359841,Inclusion (mineral)
+https://openalex.org/C2778139618,Workforce
+https://openalex.org/C148609458,Nexus (standard)
+https://openalex.org/C64848388,Futures studies
+https://openalex.org/C106306483,Futures contract
+https://openalex.org/C38652104,Computer security
+https://openalex.org/C46295352,Legitimacy
+https://openalex.org/C2777825026,Public trust
+https://openalex.org/C190253527,Law and economics
+https://openalex.org/C118147538,Metacognition
+https://openalex.org/C2776447739,Laziness
+https://openalex.org/C2777648619,Learning analytics
+https://openalex.org/C203394866,Chemical database
+https://openalex.org/C41685203,Docking (animal)
+https://openalex.org/C119487961,Swarm intelligence
+https://openalex.org/C40128228,Ant colony optimization algorithms
+https://openalex.org/C181335050,Swarm behaviour
+https://openalex.org/C122357587,Multi-swarm optimization
+https://openalex.org/C28767586,Parallel metaheuristic
+https://openalex.org/C97133563,Artificial bee colony algorithm
+https://openalex.org/C137836250,Optimization problem
+https://openalex.org/C186037533,Innovation management
+https://openalex.org/C148415826,Open innovation
+https://openalex.org/C2983189667,Innovation process
+https://openalex.org/C2778896172,Manifesto
+https://openalex.org/C2778464652,Open research
+https://openalex.org/C18555067,Joint (building)
+https://openalex.org/C39853841,Urbanization
+https://openalex.org/C67363961,Information and Communications Technology
+https://openalex.org/C119701452,Control reconfiguration
+https://openalex.org/C206729178,Scheduling (production processes)
+https://openalex.org/C13687954,Autonomous agent
+https://openalex.org/C29829512,Spacecraft
+https://openalex.org/C74072328,Intelligent agent
+https://openalex.org/C120314980,Distributed computing
+https://openalex.org/C41550386,Multi-agent system
+https://openalex.org/C2776746162,Navy
+https://openalex.org/C2778571376,Frontier
+https://openalex.org/C2778805511,Citation
+https://openalex.org/C2777532764,Research center
+https://openalex.org/C80640880,Triboelectric effect
+https://openalex.org/C175616097,Nanogenerator
+https://openalex.org/C2985199253,Solar powered
+https://openalex.org/C176563091,Intelligent sensor
+https://openalex.org/C24590314,Wireless sensor network
+https://openalex.org/C119599485,Electrical engineering
+https://openalex.org/C94061648,Wastewater
+https://openalex.org/C57442070,Sewage treatment
+https://openalex.org/C198302294,Biochemical oxygen demand
+https://openalex.org/C188287460,Chemical oxygen demand
+https://openalex.org/C82685317,Pollutant
+https://openalex.org/C39432304,Environmental science
+https://openalex.org/C64016661,Turbidity
+https://openalex.org/C87717796,Environmental engineering
+https://openalex.org/C191630685,Informatics
+https://openalex.org/C60644358,Bioinformatics
+https://openalex.org/C39389867,Corporate governance
+https://openalex.org/C2776946740,Deliberation
+https://openalex.org/C159717818,Prima facie
+https://openalex.org/C2778447849,Obligation
+https://openalex.org/C94966114,Black box
+https://openalex.org/C151110159,Philosophy of technology
+https://openalex.org/C89623803,Pandemic
+https://openalex.org/C3006700255,2019-20 coronavirus outbreak
+https://openalex.org/C3007834351,Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+https://openalex.org/C107482638,Hospitality
+https://openalex.org/C18918823,Tourism
+https://openalex.org/C189705334,Hospitality management studies
+https://openalex.org/C525551149,Hospitality industry
+https://openalex.org/C162853370,Marketing
+https://openalex.org/C2780378061,Service (business)
+https://openalex.org/C45374587,Computation
+https://openalex.org/C203005215,Machine translation
+https://openalex.org/C149364088,Translation (biology)
+https://openalex.org/C2779227376,Layer (electronics)
+https://openalex.org/C137293760,Language model
+https://openalex.org/C108650721,Counterfactual thinking
+https://openalex.org/C2777629044,Contrastive analysis
+https://openalex.org/C88199923,Food processing
+https://openalex.org/C513059894,Food industry
+https://openalex.org/C2778348673,Production (economics)
+https://openalex.org/C5791170,Food engineering
+https://openalex.org/C516717267,Food safety
+https://openalex.org/C116675565,Outbreak
+https://openalex.org/C2779134260,Disease
+https://openalex.org/C132651083,Climate change
+https://openalex.org/C188573790,Renewable energy
+https://openalex.org/C134560507,Environmental economics
+https://openalex.org/C509746633,Climate change mitigation
+https://openalex.org/C2742236,Efficient energy use
+https://openalex.org/C115343472,Global warming
+https://openalex.org/C47737302,Greenhouse gas
+https://openalex.org/C2780165032,Energy consumption
+https://openalex.org/C205537798,Extreme weather
+https://openalex.org/C107826830,Environmental resource management
+https://openalex.org/C547764534,Literacy
+https://openalex.org/C19417346,Pedagogy
+https://openalex.org/C199033989,Narrative
+https://openalex.org/C2778476105,Workload
+https://openalex.org/C82307848,Audience measurement
+https://openalex.org/C33676613,Dimension (graph theory)
+https://openalex.org/C126082660,Digital transformation
+https://openalex.org/C169087156,Framing (construction)
+https://openalex.org/C529147693,News media
+https://openalex.org/C146303308,Frame analysis
+https://openalex.org/C2776680780,Guardian
+https://openalex.org/C29595303,Media studies
+https://openalex.org/C162446236,Content analysis
+https://openalex.org/C3019611579,Surgical procedures
+https://openalex.org/C19527891,Medical physics
+https://openalex.org/C141071460,Surgery
+https://openalex.org/C2779652045,Pharmaceutical industry
+https://openalex.org/C103888896,Spaceflight
+https://openalex.org/C104060986,Space exploration
+https://openalex.org/C534819032,Human spaceflight
+https://openalex.org/C178802073,Aeronautics
+https://openalex.org/C2780262971,Law enforcement
+https://openalex.org/C110099512,Philosophy of science
+https://openalex.org/C7493553,Certainty
+https://openalex.org/C2779267917,Deception
+https://openalex.org/C2780982575,Deterrence (psychology)
+https://openalex.org/C2779777834,Enforcement
+https://openalex.org/C199539241,Law
+https://openalex.org/C157764524,Throughput
+https://openalex.org/C101468663,Modular design
+https://openalex.org/C2780428219,Cover (algebra)
+https://openalex.org/C12725497,Baseline (sea)
+https://openalex.org/C182325601,Learner autonomy
+https://openalex.org/C2776159695,Language learning strategies
+https://openalex.org/C74672266,Language acquisition
+https://openalex.org/C51672120,Cooperative learning
+https://openalex.org/C2776503756,Self-regulated learning
+https://openalex.org/C88610354,Teaching method
+https://openalex.org/C155261790,DrugBank
+https://openalex.org/C63222358,chEMBL
+https://openalex.org/C501593827,Antibiotics
+https://openalex.org/C4937899,Antimicrobial
+https://openalex.org/C94665300,Antibiotic resistance
+https://openalex.org/C2909960733,Antimicrobial drug
+https://openalex.org/C84976871,Openness to experience
+https://openalex.org/C130217890,Biodiversity
+https://openalex.org/C2777615720,Prioritization
+https://openalex.org/C101991246,Extinction (optical mineralogy)
+https://openalex.org/C53565203,Species richness
+https://openalex.org/C205649164,Geography
+https://openalex.org/C207141826,Urbanism
+https://openalex.org/C170154142,Architectural engineering
+https://openalex.org/C2778049185,Legal case
+https://openalex.org/C2781067378,Interpretability
+https://openalex.org/C44104985,Supply chain management
+https://openalex.org/C195094911,Process management
+https://openalex.org/C22507642,Hazardous waste
+https://openalex.org/C539469273,Environmental monitoring
+https://openalex.org/C2909468537,Environmental pollution
+https://openalex.org/C2987857752,Human health
+https://openalex.org/C521259446,Pollution
+https://openalex.org/C150672426,Brainstorming
+https://openalex.org/C71889745,Counterfactual conditional
+https://openalex.org/C97256817,Spurious relationship
+https://openalex.org/C500882744,Latent Dirichlet allocation
+https://openalex.org/C109747225,Scarcity
+https://openalex.org/C187107819,NASA Deep Space Network
+https://openalex.org/C109051061,Biomonitoring
+https://openalex.org/C52641369,Creativity technique
+https://openalex.org/C512170562,Entertainment
+https://openalex.org/C2776548248,Judgement
+https://openalex.org/C158154518,Relevance (law)
+https://openalex.org/C12267149,Support vector machine
+https://openalex.org/C75795011,Typology
+https://openalex.org/C28719098,Point (geometry)
+https://openalex.org/C2777432744,Compassion
+https://openalex.org/C2779885105,Empathy
